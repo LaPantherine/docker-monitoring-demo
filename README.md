@@ -32,3 +32,7 @@ docker compose up --build
 ## Notes
 
 This project is intended for learning DevOps fundamentals including containerization and monitoring.
+
+## Dashboard
+
+![Grafana Dashboard](screenshots/dashboard.png)
