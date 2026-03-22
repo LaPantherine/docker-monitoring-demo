@@ -2,11 +2,15 @@
 __pycache__/
 *.pyc
 
-# Environment variables
+# Virtual environment
+venv/
 .env
 
 # macOS
 .DS_Store
 
-# Docker
+# Logs
 *.log
+
+# Docker
+docker-compose.override.yml
