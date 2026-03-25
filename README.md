@@ -1,17 +1,14 @@
 # Docker Monitoring Demo
 
-This project demonstrates a basic monitoring setup using Docker, Prometheus, and Grafana.
-
-## Overview
-
-The application exposes metrics that are collected by Prometheus and visualized in Grafana.
+A containerized monitoring system using Docker, Prometheus, and Grafana to collect and visualize application metrics.
 
 ## Tech Stack
 
 - Docker
+- Docker Compose
+- Python (Flask)
 - Prometheus
 - Grafana
-- Python (Flask)
 
 ## Services
 
